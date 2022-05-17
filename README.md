@@ -1,6 +1,6 @@
 # projektapr
 aprprojekt
 # meine geplanten tasks
-- [] hallo welt
-- [] apr
+-  hallo welt
+-  apr
 - 
